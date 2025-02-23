@@ -9,7 +9,7 @@ metadata:
     nirmata.io/type: "app"
 spec:
   progressDeadlineSeconds: 2147483647
-  replicas: 2
+  replicas: 3
   revisionHistoryLimit: 5
   selector:
     matchLabels:
